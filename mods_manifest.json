@@ -1,0 +1,192 @@
+{
+  "version": "1.21.1",
+  "loader": "neoforge",
+  "total_mods": 37,
+  "mods": [
+    {
+      "name": "CBCMW recipe fix 0.0.3a.jar",
+      "url": "https://your-domain.com/mods/CBCMW recipe fix 0.0.3a.jar",
+      "sha1": "660821c0fdb8db14dd31612658ae80abc64f78b5"
+    },
+    {
+      "name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://your-domain.com/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "name": "Create Encased-1.21.1-1.9.0-ht3.jar",
+      "url": "https://your-domain.com/mods/Create Encased-1.21.1-1.9.0-ht3.jar",
+      "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274"
+    },
+    {
+      "name": "FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://your-domain.com/mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622"
+    },
+    {
+      "name": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://your-domain.com/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
+    },
+    {
+      "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://your-domain.com/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+    },
+    {
+      "name": "aero_cam_sync-1.3.6.jar",
+      "url": "https://your-domain.com/mods/aero_cam_sync-1.3.6.jar",
+      "sha1": "b69e4b9559ded399d44de990d88652684727f4d1"
+    },
+    {
+      "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://your-domain.com/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    {
+      "name": "arcon-1.0.0 (1).jar",
+      "url": "https://your-domain.com/mods/arcon-1.0.0 (1).jar",
+      "sha1": "db7447e81bda71f4c16113c9bfa4e861165af66c"
+    },
+    {
+      "name": "cbc_compact_mount-1.2.2.jar",
+      "url": "https://your-domain.com/mods/cbc_compact_mount-1.2.2.jar",
+      "sha1": "636f26509f919a8520c1d9a2ac3f536354684b7e"
+    },
+    {
+      "name": "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
+      "url": "https://your-domain.com/mods/cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
+      "sha1": "c8cd9d1fd4a3913f7f453b397fcc5ef36aec4749"
+    },
+    {
+      "name": "configured-neoforge-1.21.1-2.6.3.jar",
+      "url": "https://your-domain.com/mods/configured-neoforge-1.21.1-2.6.3.jar",
+      "sha1": "e977d86eec39d49295df4e2c4265d6710ae065e8"
+    },
+    {
+      "name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://your-domain.com/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "url": "https://your-domain.com/mods/create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+    },
+    {
+      "name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "url": "https://your-domain.com/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "sha1": "a2b08963ebc9f331f52c626aebcd65013e100d69"
+    },
+    {
+      "name": "create_connected-1.3.2-mc1.21.1.jar",
+      "url": "https://your-domain.com/mods/create_connected-1.3.2-mc1.21.1.jar",
+      "sha1": "920de05b13c32fe1417d0aec0615057aa480cc8d"
+    },
+    {
+      "name": "createaddition-1.6.0.jar",
+      "url": "https://your-domain.com/mods/createaddition-1.6.0.jar",
+      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e"
+    },
+    {
+      "name": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "url": "https://your-domain.com/mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d"
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://your-domain.com/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+    },
+    {
+      "name": "fzzy_config-0.7.6+1.21+neoforge (1).jar",
+      "url": "https://your-domain.com/mods/fzzy_config-0.7.6+1.21+neoforge (1).jar",
+      "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
+    },
+    {
+      "name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://your-domain.com/mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.43.0.393.jar",
+      "url": "https://your-domain.com/mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+      "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37"
+    },
+    {
+      "name": "kotlinforforge-5.12.0-all.jar",
+      "url": "https://your-domain.com/mods/kotlinforforge-5.12.0-all.jar",
+      "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f"
+    },
+    {
+      "name": "ldlib2-neoforge-1.21.1-2.2.33-all.jar",
+      "url": "https://your-domain.com/mods/ldlib2-neoforge-1.21.1-2.2.33-all.jar",
+      "sha1": "d8b0126bc1ac08149d10c6c998d7a9133ea74840"
+    },
+    {
+      "name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://your-domain.com/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "sha1": "97212e45c963730bbfc7c44780df99317814c21b"
+    },
+    {
+      "name": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "url": "https://your-domain.com/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575"
+    },
+    {
+      "name": "pillagerguns-neoforge-1.21.1-1.1.0.jar",
+      "url": "https://your-domain.com/mods/pillagerguns-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "315d4b7709710de8f3847229a7930b04d3c6d55f"
+    },
+    {
+      "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "url": "https://your-domain.com/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765"
+    },
+    {
+      "name": "s_a_b-1.4.3-neoforge-1.21.1.jar",
+      "url": "https://your-domain.com/mods/s_a_b-1.4.3-neoforge-1.21.1.jar",
+      "sha1": "7a73d69b83d2a4b217a4cccaf142bbd5793f6ae8"
+    },
+    {
+      "name": "sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://your-domain.com/mods/sable-neoforge-1.21.1-2.0.3.jar",
+      "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756"
+    },
+    {
+      "name": "sable-schematic-api-0.4.0.jar",
+      "url": "https://your-domain.com/mods/sable-schematic-api-0.4.0.jar",
+      "sha1": "a236eff3a54787421426aa9850db01f0bf2b9c9b"
+    },
+    {
+      "name": "sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar",
+      "url": "https://your-domain.com/mods/sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar",
+      "sha1": "f868ab0a037d1211fabd31b2f42a2862b8e6c669"
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+      "url": "https://your-domain.com/mods/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+      "sha1": "e8baceab12d01ff170e7dcf3ab2079206d1407fd"
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "url": "https://your-domain.com/mods/sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "sha1": "bef1d5186feaed80b11bd1e6f2dc880e8bec0449"
+    },
+    {
+      "name": "synaxis-1.4.3.jar",
+      "url": "https://your-domain.com/mods/synaxis-1.4.3.jar",
+      "sha1": "f764b1bef5840607f5f0e46606ec42d49980efa1"
+    },
+    {
+      "name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "url": "https://your-domain.com/mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "sha1": "c70e8f638bede79ab8a85c891c464097b3100055"
+    },
+    {
+      "name": "tacz_aero_compat-1.8.0.jar",
+      "url": "https://your-domain.com/mods/tacz_aero_compat-1.8.0.jar",
+      "sha1": "119204f6baf382da70903db2c16d7ddde4adbe69"
+    }
+  ]
+}
